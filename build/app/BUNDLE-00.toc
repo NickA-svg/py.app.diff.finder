@@ -1,0 +1,3 @@
+([('app',
+   '/Users/nick.aristidou@convexin.com/Documents/Projects/Python/py.diff.finder.gui/dist/app',
+   'EXECUTABLE')],)
